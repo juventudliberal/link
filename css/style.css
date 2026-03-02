@@ -89,6 +89,17 @@
 	margin:0 0 2rem 0;
 }
 
+/* Section titles inside the button stack */
+.section-title {
+	margin:2rem 0 0.75rem 0 !important;
+	font-size:var(--scale-0);
+	font-weight:700;
+	text-transform:uppercase;
+	letter-spacing:0.08em;
+	opacity:0.5;
+	text-align:center;
+}
+
 /* Base Typography Settings
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 /* Base size - 16px browser default */
